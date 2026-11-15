@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+mysql-connector-python
+PyMySQL
+streamlit
+plotly
+jupyter

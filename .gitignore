@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local source dataset and generated database exports
+data/household_power_consumption.txt
+data/forecast_results.csv
+data/anomaly_results.csv
+
+# Editor / operating system
+.vscode/
+.DS_Store
+Thumbs.db
